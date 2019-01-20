@@ -1,0 +1,13 @@
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\bin\Debug\Grocery Store mangement System.exe.config
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\bin\Debug\Grocery Store mangement System.exe
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\bin\Debug\Grocery Store mangement System.pdb
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\obj\Debug\Grocery Store mangement System.csprojResolveAssemblyReference.cache
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\obj\Debug\Grocery_Store_mangement_System.Properties.Resources.resources
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\obj\Debug\Grocery Store mangement System.csproj.GenerateResource.Cache
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\obj\Debug\Grocery Store mangement System.exe
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\obj\Debug\Grocery Store mangement System.pdb
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\obj\Debug\Grocery_Store_mangement_System.FormPriceChecker.resources
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\obj\Debug\Grocery_Store_mangement_System.FormSalesAndReturn.resources
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\bin\Debug\MaterialSkin.dll
+D:\csharp projects\Personal Project\Grocery Store mangement System\Grocery Store mangement System\obj\Debug\Grocery_Store_mangement_System.FormLogin.resources

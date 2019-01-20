@@ -1,0 +1,12 @@
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe.config
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\NotePadApp\NotePadApp\bin\Debug\NotePadApp.pdb
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\NotePadApp\NotePadApp\obj\Debug\NotePadApp.csprojResolveAssemblyReference.cache
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\NotePadApp\NotePadApp\obj\Debug\NotePadApp.Properties.Resources.resources
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\NotePadApp\NotePadApp\obj\Debug\NotePadApp.csproj.GenerateResource.Cache
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\NotePadApp\NotePadApp\obj\Debug\NotePadApp.exe
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\NotePadApp\NotePadApp\obj\Debug\NotePadApp.pdb
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\NotePadApp\NotePadApp\obj\Debug\NotePadApp.NotePad.resources
+D:\csharp projects\Shazada Kam Chkan laga\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe.config
+D:\csharp projects\Shazada Kam Chkan laga\NotePadApp\NotePadApp\obj\Debug\NotePadApp.exe
+D:\csharp projects\Shazada Kam Chkan laga\NotePadApp\NotePadApp\obj\Debug\NotePadApp.pdb

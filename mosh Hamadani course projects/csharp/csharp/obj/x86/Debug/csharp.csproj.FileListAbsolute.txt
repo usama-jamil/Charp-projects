@@ -1,0 +1,7 @@
+c:\users\usama\documents\visual studio 2010\Projects\csharp\csharp\bin\Debug\csharp.exe
+c:\users\usama\documents\visual studio 2010\Projects\csharp\csharp\bin\Debug\csharp.pdb
+c:\users\usama\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\csharp.Properties.Resources.resources
+c:\users\usama\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\csharp.csproj.GenerateResource.Cache
+c:\users\usama\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\csharp.exe
+c:\users\usama\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\csharp.pdb
+c:\users\usama\documents\visual studio 2010\Projects\csharp\csharp\obj\x86\Debug\csharp.Form1.resources

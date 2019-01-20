@@ -1,0 +1,7 @@
+D:\csharp projects\Personal Library\UsamaWindowsFormsApplicationTempletes\Project.Lib\bin\Debug\Project.Lib.dll
+D:\csharp projects\Personal Library\UsamaWindowsFormsApplicationTempletes\Project.Lib\bin\Debug\Project.Lib.pdb
+D:\csharp projects\Personal Library\UsamaWindowsFormsApplicationTempletes\Project.Lib\obj\Debug\Project.Lib.dll
+D:\csharp projects\Personal Library\UsamaWindowsFormsApplicationTempletes\Project.Lib\obj\Debug\Project.Lib.pdb
+D:\csharp projects\Personal Library\UsamaWindowsFormsApplicationTempletes\Project.Lib\obj\Debug\Project.Lib.csprojResolveAssemblyReference.cache
+D:\csharp projects\Personal Library\UsamaWindowsFormsApplicationTempletes\Project.Lib\bin\Debug\Dapper.dll
+D:\csharp projects\Personal Library\UsamaWindowsFormsApplicationTempletes\Project.Lib\bin\Debug\Dapper.xml

@@ -1,0 +1,6 @@
+D:\csharp projects\Personal Library\UsamaPersonalClassLibrary\UsamaCommon.Lib\bin\Debug\UsamaCommon.Lib.dll
+D:\csharp projects\Personal Library\UsamaPersonalClassLibrary\UsamaCommon.Lib\bin\Debug\UsamaCommon.Lib.pdb
+D:\csharp projects\Personal Library\UsamaPersonalClassLibrary\UsamaCommon.Lib\obj\Debug\UsamaCommon.Lib.dll
+D:\csharp projects\Personal Library\UsamaPersonalClassLibrary\UsamaCommon.Lib\obj\Debug\UsamaCommon.Lib.pdb
+D:\csharp projects\Personal Library\UsamaPersonalClassLibrary\UsamaCommon.Lib\bin\Debug\UsamaCommon.Lib.dll.CodeAnalysisLog.xml
+D:\csharp projects\Personal Library\UsamaPersonalClassLibrary\UsamaCommon.Lib\bin\Debug\UsamaCommon.Lib.dll.lastcodeanalysissucceeded

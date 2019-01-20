@@ -1,0 +1,5 @@
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Exercise\Exercise 04\Exercise 04\bin\Debug\Exercise 04.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Exercise\Exercise 04\Exercise 04\bin\Debug\Exercise 04.pdb
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Exercise\Exercise 04\Exercise 04\obj\x86\Debug\Exercise 04.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Exercise\Exercise 04\Exercise 04\obj\x86\Debug\Exercise 04.pdb
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Exercise\Exercise 04\Exercise 04\obj\x86\Debug\Exercise 04.csprojResolveAssemblyReference.cache

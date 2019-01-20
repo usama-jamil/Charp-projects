@@ -1,0 +1,16 @@
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bin\Debug\ReverseMap\resources.pri
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bin\Debug\AppxManifest.xml
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bin\Debug\Appjavascript.build.appxrecipe
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\ResourceHandlingTask.state
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\priconfig.xml
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\priconfig.xml.intermediate
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\layout.resfiles
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\layout.resfiles.intermediate
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\resources.resfiles
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\resources.resfiles.intermediate
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\pri.resfiles
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\pri.resfiles.intermediate
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\qualifiers.txt
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\qualifiers.txt.intermediate
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\usama\Desktop\perhai\Appjavascript\Appjavascript\bld\Debug\ProjectArchitectures.txt

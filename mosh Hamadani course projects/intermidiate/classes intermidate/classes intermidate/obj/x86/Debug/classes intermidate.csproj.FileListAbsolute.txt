@@ -1,0 +1,4 @@
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\classes intermidate\classes intermidate\bin\Debug\classes intermidate.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\classes intermidate\classes intermidate\bin\Debug\classes intermidate.pdb
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\classes intermidate\classes intermidate\obj\x86\Debug\classes intermidate.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\classes intermidate\classes intermidate\obj\x86\Debug\classes intermidate.pdb

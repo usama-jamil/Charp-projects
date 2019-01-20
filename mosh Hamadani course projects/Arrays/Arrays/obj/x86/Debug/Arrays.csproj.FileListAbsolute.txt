@@ -1,0 +1,4 @@
+c:\users\usama\documents\visual studio 2010\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\usama\documents\visual studio 2010\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\usama\documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\Arrays.exe
+c:\users\usama\documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\Arrays.pdb

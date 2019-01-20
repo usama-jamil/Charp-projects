@@ -1,0 +1,14 @@
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\bin\Debug\WpfApplicationcsharp.exe.config
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\bin\Debug\WpfApplicationcsharp.exe
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\bin\Debug\WpfApplicationcsharp.pdb
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\WpfApplicationcsharp.csprojResolveAssemblyReference.cache
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\MainWindow.g.cs
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\App.g.cs
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\WpfApplicationcsharp_MarkupCompile.cache
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\WpfApplicationcsharp_MarkupCompile.lref
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\MainWindow.baml
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\WpfApplicationcsharp.g.resources
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\WpfApplicationcsharp.Properties.Resources.resources
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\WpfApplicationcsharp.csproj.GenerateResource.Cache
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\WpfApplicationcsharp.exe
+C:\Users\usama\Desktop\perhai\WpfApplicationcsharp\WpfApplicationcsharp\obj\Debug\WpfApplicationcsharp.pdb

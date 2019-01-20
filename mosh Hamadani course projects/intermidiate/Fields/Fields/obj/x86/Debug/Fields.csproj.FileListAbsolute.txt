@@ -1,0 +1,4 @@
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Fields\Fields\bin\Debug\Fields.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Fields\Fields\bin\Debug\Fields.pdb
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Fields\Fields\obj\x86\Debug\Fields.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Fields\Fields\obj\x86\Debug\Fields.pdb

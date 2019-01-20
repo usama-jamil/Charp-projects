@@ -1,0 +1,4 @@
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\AccessModifier\AccessModifier\bin\Debug\AccessModifier.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\AccessModifier\AccessModifier\bin\Debug\AccessModifier.pdb
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\AccessModifier\AccessModifier\obj\x86\Debug\AccessModifier.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\AccessModifier\AccessModifier\obj\x86\Debug\AccessModifier.pdb

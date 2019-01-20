@@ -1,0 +1,4 @@
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Constructor\Constructor\obj\x86\Debug\Constructor.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Constructor\Constructor\obj\x86\Debug\Constructor.pdb

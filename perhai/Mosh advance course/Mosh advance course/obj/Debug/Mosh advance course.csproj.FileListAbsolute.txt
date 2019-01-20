@@ -1,0 +1,6 @@
+C:\Users\usama\Desktop\perhai\Mosh advance course\Mosh advance course\bin\Debug\Mosh advance course.exe.config
+C:\Users\usama\Desktop\perhai\Mosh advance course\Mosh advance course\bin\Debug\Mosh advance course.exe
+C:\Users\usama\Desktop\perhai\Mosh advance course\Mosh advance course\bin\Debug\Mosh advance course.pdb
+C:\Users\usama\Desktop\perhai\Mosh advance course\Mosh advance course\obj\Debug\Mosh advance course.csprojResolveAssemblyReference.cache
+C:\Users\usama\Desktop\perhai\Mosh advance course\Mosh advance course\obj\Debug\Mosh advance course.exe
+C:\Users\usama\Desktop\perhai\Mosh advance course\Mosh advance course\obj\Debug\Mosh advance course.pdb

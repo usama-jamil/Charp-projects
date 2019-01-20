@@ -1,0 +1,8 @@
+c:\users\usama\documents\visual studio 2010\Projects\menus\menus\obj\x86\Debug\menus.Form1.resources
+c:\users\usama\documents\visual studio 2010\Projects\menus\menus\obj\x86\Debug\menus.Form2.resources
+c:\users\usama\documents\visual studio 2010\Projects\menus\menus\obj\x86\Debug\menus.Properties.Resources.resources
+c:\users\usama\documents\visual studio 2010\Projects\menus\menus\obj\x86\Debug\menus.csproj.GenerateResource.Cache
+c:\users\usama\documents\visual studio 2010\Projects\menus\menus\bin\Debug\menus.exe
+c:\users\usama\documents\visual studio 2010\Projects\menus\menus\bin\Debug\menus.pdb
+c:\users\usama\documents\visual studio 2010\Projects\menus\menus\obj\x86\Debug\menus.exe
+c:\users\usama\documents\visual studio 2010\Projects\menus\menus\obj\x86\Debug\menus.pdb

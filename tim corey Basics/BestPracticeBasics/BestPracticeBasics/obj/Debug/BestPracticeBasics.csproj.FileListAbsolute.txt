@@ -1,0 +1,6 @@
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\BestPracticeBasics\BestPracticeBasics\bin\Debug\BestPracticeBasics.exe.config
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\BestPracticeBasics\BestPracticeBasics\bin\Debug\BestPracticeBasics.exe
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\BestPracticeBasics\BestPracticeBasics\bin\Debug\BestPracticeBasics.pdb
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\BestPracticeBasics\BestPracticeBasics\obj\Debug\BestPracticeBasics.csprojResolveAssemblyReference.cache
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\BestPracticeBasics\BestPracticeBasics\obj\Debug\BestPracticeBasics.exe
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\BestPracticeBasics\BestPracticeBasics\obj\Debug\BestPracticeBasics.pdb

@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{099528C7-37C0-48C1-9A62-3C9519CEA008}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UsamaWindowsFormsApplicationTempletes</RootNamespace>
+    <AssemblyName>UsamaWindowsFormsApplicationTempletes</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>C:\Users\usama\Desktop\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Controls.DataVisualization.Toolkit, Version=3.5.40128.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WPFToolkit.DataVisualization.3.5.50211.1\lib\System.Windows.Controls.DataVisualization.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Controls.Input.Toolkit, Version=3.5.40128.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WPFToolkit.3.5.50211.1\lib\System.Windows.Controls.Input.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Controls.Layout.Toolkit, Version=3.5.40128.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WPFToolkit.3.5.50211.1\lib\System.Windows.Controls.Layout.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WPFToolkit, Version=3.5.40128.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WPFToolkit.3.5.50211.1\lib\WPFToolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddData\AddBrokerWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddData\AddBrokerWin.Designer.cs">
+      <DependentUpon>AddBrokerWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddData\AddCategoryWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddData\AddCategoryWin.Designer.cs">
+      <DependentUpon>AddCategoryWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddData\AddCustomerWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddData\AddCustomerWin.Designer.cs">
+      <DependentUpon>AddCustomerWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddData\AddExpenseWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddData\AddExpenseWin.Designer.cs">
+      <DependentUpon>AddExpenseWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddData\AddProductWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddData\AddProductWin.Designer.cs">
+      <DependentUpon>AddProductWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddData\AddSalePerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddData\AddSalePerson.Designer.cs">
+      <DependentUpon>AddSalePerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddData\AddSupplierWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddData\AddSupplierWin.Designer.cs">
+      <DependentUpon>AddSupplierWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoWin.Designer.cs">
+      <DependentUpon>InfoWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ICategoryRequester.cs" />
+    <Compile Include="Interface\ICustomerRequester.cs" />
+    <Compile Include="Interface\IProductRequester.cs" />
+    <Compile Include="Interface\ISupplierRequester.cs" />
+    <Compile Include="ListData\BrokerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListData\BrokerList.Designer.cs">
+      <DependentUpon>BrokerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListData\SalePersonList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListData\SalePersonList.Designer.cs">
+      <DependentUpon>SalePersonList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWin.Designer.cs">
+      <DependentUpon>MainWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SettingWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingWin.Designer.cs">
+      <DependentUpon>SettingWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UCircularButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UControl\UPaymentMethod.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControl\UPaymentMethod.Designer.cs">
+      <DependentUpon>UPaymentMethod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControl\UTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="AddData\AddBrokerWin.resx">
+      <DependentUpon>AddBrokerWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddData\AddCategoryWin.resx">
+      <DependentUpon>AddCategoryWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddData\AddCustomerWin.resx">
+      <DependentUpon>AddCustomerWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddData\AddExpenseWin.resx">
+      <DependentUpon>AddExpenseWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddData\AddProductWin.resx">
+      <DependentUpon>AddProductWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddData\AddSalePerson.resx">
+      <DependentUpon>AddSalePerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddData\AddSupplierWin.resx">
+      <DependentUpon>AddSupplierWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListData\BrokerList.resx">
+      <DependentUpon>BrokerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListData\SalePersonList.resx">
+      <DependentUpon>SalePersonList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWin.resx">
+      <DependentUpon>MainWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UControl\UPaymentMethod.resx">
+      <DependentUpon>UPaymentMethod.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\UsamaPersonalClassLibrary\UsamaCommon.Lib\UsamaCommon.Lib.csproj">
+      <Project>{7cf56be0-9bf4-49f1-96df-1861a81558bf}</Project>
+      <Name>UsamaCommon.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\UsamaWinFormDesgineClassLibrary\UsamaWinFormDesgineClassLibrary2\UsamaWinDesgine.Lib.csproj">
+      <Project>{d7bce249-6454-428c-945d-35e3dfd1dfe1}</Project>
+      <Name>UsamaWinDesgine.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project.Lib\Project.Lib.csproj">
+      <Project>{9474db82-8b80-4338-8332-1f4515c8bd20}</Project>
+      <Name>Project.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

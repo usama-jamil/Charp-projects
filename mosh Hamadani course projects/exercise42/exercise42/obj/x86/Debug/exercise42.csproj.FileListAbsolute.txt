@@ -1,0 +1,4 @@
+c:\users\usama\documents\visual studio 2010\Projects\exercise42\exercise42\bin\Debug\exercise42.exe
+c:\users\usama\documents\visual studio 2010\Projects\exercise42\exercise42\bin\Debug\exercise42.pdb
+c:\users\usama\documents\visual studio 2010\Projects\exercise42\exercise42\obj\x86\Debug\exercise42.exe
+c:\users\usama\documents\visual studio 2010\Projects\exercise42\exercise42\obj\x86\Debug\exercise42.pdb

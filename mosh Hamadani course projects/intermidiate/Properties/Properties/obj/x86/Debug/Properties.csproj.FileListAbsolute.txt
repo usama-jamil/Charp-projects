@@ -1,0 +1,5 @@
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Properties\Properties\obj\x86\Debug\Properties.csprojResolveAssemblyReference.cache
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Properties\Properties\obj\x86\Debug\Properties.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Properties\Properties\obj\x86\Debug\Properties.pdb

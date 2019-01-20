@@ -1,0 +1,6 @@
+D:\csharp projects\Personal Project\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+D:\csharp projects\Personal Project\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+D:\csharp projects\Personal Project\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+D:\csharp projects\Personal Project\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojResolveAssemblyReference.cache
+D:\csharp projects\Personal Project\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+D:\csharp projects\Personal Project\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb

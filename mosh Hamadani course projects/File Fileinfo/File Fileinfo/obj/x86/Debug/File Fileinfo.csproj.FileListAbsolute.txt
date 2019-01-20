@@ -1,0 +1,5 @@
+C:\Users\usama\documents\visual studio 2010\Projects\File Fileinfo\File Fileinfo\bin\Debug\File Fileinfo.exe
+C:\Users\usama\documents\visual studio 2010\Projects\File Fileinfo\File Fileinfo\bin\Debug\File Fileinfo.pdb
+C:\Users\usama\documents\visual studio 2010\Projects\File Fileinfo\File Fileinfo\obj\x86\Debug\File Fileinfo.csprojResolveAssemblyReference.cache
+C:\Users\usama\documents\visual studio 2010\Projects\File Fileinfo\File Fileinfo\obj\x86\Debug\File Fileinfo.exe
+C:\Users\usama\documents\visual studio 2010\Projects\File Fileinfo\File Fileinfo\obj\x86\Debug\File Fileinfo.pdb

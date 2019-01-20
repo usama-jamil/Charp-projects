@@ -1,0 +1,8 @@
+C:\Users\usama\documents\visual studio 2010\Projects\tutorial\tutorial\bin\Debug\tutorial.exe
+C:\Users\usama\documents\visual studio 2010\Projects\tutorial\tutorial\bin\Debug\tutorial.pdb
+C:\Users\usama\documents\visual studio 2010\Projects\tutorial\tutorial\obj\x86\Debug\tutorial.mainform.resources
+C:\Users\usama\documents\visual studio 2010\Projects\tutorial\tutorial\obj\x86\Debug\tutorial.Properties.Resources.resources
+C:\Users\usama\documents\visual studio 2010\Projects\tutorial\tutorial\obj\x86\Debug\tutorial.csproj.GenerateResource.Cache
+C:\Users\usama\documents\visual studio 2010\Projects\tutorial\tutorial\obj\x86\Debug\tutorial.exe
+C:\Users\usama\documents\visual studio 2010\Projects\tutorial\tutorial\obj\x86\Debug\tutorial.pdb
+C:\Users\usama\documents\visual studio 2010\Projects\tutorial\tutorial\obj\x86\Debug\tutorial.csprojResolveAssemblyReference.cache

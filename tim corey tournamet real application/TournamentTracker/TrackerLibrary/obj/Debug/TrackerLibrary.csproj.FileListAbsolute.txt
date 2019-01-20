@@ -1,0 +1,7 @@
+D:\csharp projects\tim corey tournamet real application\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+D:\csharp projects\tim corey tournamet real application\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+D:\csharp projects\tim corey tournamet real application\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojResolveAssemblyReference.cache
+D:\csharp projects\tim corey tournamet real application\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+D:\csharp projects\tim corey tournamet real application\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+D:\csharp projects\tim corey tournamet real application\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+D:\csharp projects\tim corey tournamet real application\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml

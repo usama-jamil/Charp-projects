@@ -1,0 +1,19 @@
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\ContactList\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.csprojResolveAssemblyReference.cache
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.Form1.resources
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.csproj.GenerateResource.Cache
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.exe
+C:\Users\usama\Desktop\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.pdb
+D:\csharp projects\Shazada Kam Chkan laga\ContactList\ContactList\bin\Debug\ContactList.exe.config
+D:\csharp projects\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.exe
+D:\csharp projects\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.pdb
+D:\csharp projects\Shazada Kam Chkan laga\ContactList\ContactList\bin\Debug\ContactList.exe
+D:\csharp projects\Shazada Kam Chkan laga\ContactList\ContactList\bin\Debug\ContactList.pdb
+D:\csharp projects\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.csprojResolveAssemblyReference.cache
+D:\csharp projects\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.DataSetForm.resources
+D:\csharp projects\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.Form1.resources
+D:\csharp projects\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+D:\csharp projects\Shazada Kam Chkan laga\ContactList\ContactList\obj\Debug\ContactList.csproj.GenerateResource.Cache

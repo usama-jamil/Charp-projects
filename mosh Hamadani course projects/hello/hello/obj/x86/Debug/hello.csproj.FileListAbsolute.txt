@@ -1,0 +1,5 @@
+c:\users\usama\documents\visual studio 2010\Projects\hello\hello\bin\Debug\hello.exe
+c:\users\usama\documents\visual studio 2010\Projects\hello\hello\bin\Debug\hello.pdb
+c:\users\usama\documents\visual studio 2010\Projects\hello\hello\obj\x86\Debug\hello.exe
+c:\users\usama\documents\visual studio 2010\Projects\hello\hello\obj\x86\Debug\hello.pdb
+C:\Users\usama\Documents\Visual Studio 2010\Projects\hello\hello\obj\x86\Debug\hello.csprojResolveAssemblyReference.cache

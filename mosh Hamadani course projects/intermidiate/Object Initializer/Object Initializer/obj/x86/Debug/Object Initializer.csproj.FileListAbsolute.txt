@@ -1,0 +1,6 @@
+C:\Users\usama\Documents\Visual Studio 2010\Projects\windows form\Object Initializer\Object Initializer\bin\Debug\Object Initializer.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\windows form\Object Initializer\Object Initializer\bin\Debug\Object Initializer.pdb
+C:\Users\usama\Documents\Visual Studio 2010\Projects\windows form\Object Initializer\Object Initializer\obj\x86\Debug\Object Initializer.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\windows form\Object Initializer\Object Initializer\obj\x86\Debug\Object Initializer.pdb
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Object Initializer\Object Initializer\obj\x86\Debug\Object Initializer.exe
+C:\Users\usama\Documents\Visual Studio 2010\Projects\intermidiate\Object Initializer\Object Initializer\obj\x86\Debug\Object Initializer.pdb
